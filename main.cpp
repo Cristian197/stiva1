@@ -53,9 +53,7 @@ int main()
      stiva1.initializare();
      stiva2.initializare();
      stiva1.push(3);
-     stiva1.push(5);
-     stiva1.push(11);
-     stiva1.push(4);
+   
      stiva2.push(8);
      stiva2.push(2);
      stiva2.push(7);
