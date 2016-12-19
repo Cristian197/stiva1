@@ -59,6 +59,8 @@ int main()
      stiva2.push(8);
      stiva2.push(2);
      stiva2.push(7);
+     stiva2.push(21);
+	//modificare
      cout<<stiva1.pop()<<" ";
      cout<<stiva1.pop()<<" ";
      cout<<stiva1.pop()<<" ";
