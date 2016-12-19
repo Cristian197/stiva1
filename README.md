@@ -1,6 +1,6 @@
 # Laborator2
 
-#include<iostream>
+include<iostream>
 
 using namespace std;
 
@@ -62,6 +62,7 @@ int main()
      stiva2.push(2);
      stiva2.push(7);
      stiva2.push(9); //adaugat pe github
+     stiva2.push(21);
      cout<<stiva1.pop()<<" ";
      cout<<stiva1.pop()<<" ";
      cout<<stiva1.pop()<<" ";
