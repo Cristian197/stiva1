@@ -1,4 +1,4 @@
-# stiva1
+# Laborator2
 
 #include<iostream>
 
@@ -61,6 +61,7 @@ int main()
      stiva2.push(8);
      stiva2.push(2);
      stiva2.push(7);
+     stiva2.push(9); //adaugat pe github
      cout<<stiva1.pop()<<" ";
      cout<<stiva1.pop()<<" ";
      cout<<stiva1.pop()<<" ";
@@ -68,7 +69,7 @@ int main()
      cout<<stiva2.pop()<<" ";
      cout<<stiva2.pop()<<" ";
      cout<<stiva2.pop()<<" ";
-
+    
 
 
 return 0;
